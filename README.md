@@ -1,8 +1,8 @@
 # larpcode
 Leet Code auto complete for maximum larp
 
-INSTALL
-Python version 3.14
+INSTALL Python version 3.14
+
 In terminal of root folder:
 1. python -m venv .venv
 2. Run .\.venv\Scripts\activate
