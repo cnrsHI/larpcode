@@ -13,8 +13,8 @@ import pyclip
 from openai import OpenAI
 
 print("Leetcode non-premium can do like around 100-200 problems and premium does like 500 before rate limit FYI")
-problems_to_do = input("Enter how many problems you want to do")
-open_ai_key = input("Enter api key for chatgpt")
+problems_to_do = input("Enter how many problems you want to do: ")
+open_ai_key = input("Enter api key for chatgpt: ")
 
 options = webdriver.ChromeOptions()
 driver = uc.Chrome(options=options)
